@@ -1,108 +1,204 @@
 let questions = [
-
-
     {
-    numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
-    options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
-    ]
-  },
-
-
+        "numb": 1,
+        "question": "The word Diwali is derived from which language?",
+        "answer": "c) Sanskrit",
+        "options": [
+            "a) Pali",
+            "b) Apabhramsa",
+            "c) Sanskrit ",
+            "d) Prakrit"
+        ]
+    },
     {
-    numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
-    options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
-    ]
-  },
-
-
+        "numb": 2,
+        "question": "The name Diwali is derived from the Sanskrit term Deepavali. What is Deepavali English translation?",
+        "answer": "c) Row of lights",
+        "options": [
+            "a) Row of colours",
+            "b) Colourful lights",
+            "c) Row of lights ",
+            "d) Victory of the light"
+        ]
+    },
     {
-    numb: 3,
-    question: "What does PHP stand for?",
-    answer: "Hypertext Preprocessor",
-    options: [
-      "Hypertext Preprocessor",
-      "Hypertext Programming",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
-    ]
-  },
-
-
+        "numb": 3,
+        "question": "Thalai Deepavali is a unique Diwali custom of which Indian State?",
+        "answer": "a) Tamil Nadu ",
+        "options": [
+            "a) Tamil Nadu ",
+            "b) Kerela",
+            "c) Andhra Pradesh",
+            "d) Telangana"
+        ]
+    },
     {
-    numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
-    options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
-    ]
-  },
-
-
+        "numb": 4,
+        "question": "How many days do people celebrate Diwali?",
+        "answer": "d) 5",
+        "options": [
+            "a) 1",
+            "b) 7",
+            "c) 3",
+            "d) 5 "
+        ]
+    },
     {
-    numb: 5,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
-    options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
-    ]
-  },
-  
+        "numb": 5,
+        "question": "Second day of Diwali is known as?",
+        "answer": "d) Naraka Chaturdashi",
+        "options": [
+            "a) Bhai Dooj",
+            "b) Dhanteras",
+            "c) Govardhan Pooja",
+            "d) Naraka Chaturdashi "
+        ]
+    },
+    {
+        "numb": 6,
+        "question": "Which day of Diwali celebrates the bond between brothers and sisters?",
+        "answer": "d) Fifth ",
+        "options": [
+            "a) First",
+            "b) Second",
+            "c) Fourth",
+            "d) Fifth "
+        ]
+    },
+    {
+        "numb": 7,
+        "question": "For what reason Diwali is celebrated among Sikhs?",
+        "answer": "b) Release of Guru Hargobind",
+        "options": [
+            "a) For Ram’s victory over Ravana",
+            "b) Release of Guru Hargobind ",
+            "c) Defeat of Narakasura by Shri Krishna",
+            "d) None of the above"
+        ]
+    },
+    {
+        "numb": 8,
+        "question": "Diwali is observed in which month according to the Hindu calendar?",
+        "answer": "d) Kartika",
+        "options": [
+            "a) Ashwin",
+            "b) Bhadra",
+            "c) Asvina",
+            "d) Kartika "
+        ]
+    },
+    {
+        "numb": 9,
+        "question": "Which day of Diwali commemorating Krishna’s defeat of Indra is called Goverdhan Puja, Balipratipada, or Annakut?",
+        "answer": "d) Fourth ",
+        "options": [
+            "a) Fifth",
+            "b) Third",
+            "c) Second",
+            "d) Fourth "
+        ]
+    },
+    {
+        "numb": 10,
+        "question": "South Indians celebrate Diwali in honour of lord Krishna’s win over which Demon King?",
+        "answer": "b) Narakasura ",
+        "options": [
+            "a) Bhandasura",
+            "b) Narakasura ",
+            "c) Rakshasa",
+            "d) Yakshas"
+        ]
+    },
+    {
+        "numb": 11,
+        "question": "Diwali always occurs on:",
+        "answer": "b) New Moon",
+        "options": [
+            "a) Full moon night",
+            "b) New Moon ",
+            "c) First quarter of the moon",
+            "d) Crescent moon"
+        ]
+    },
+    {
+        "numb": 12,
+        "question": "Which popular Indian Monument’s foundation stone was laid on the day of Diwali?",
+        "answer": "c) Golden Temple",
+        "options": [
+            "a) Red Fort",
+            "b) Amber Fort",
+            "c) Golden Temple ",
+            "d) Taj Mahal"
+        ]
+    },
+    {
+        "numb": 13,
+        "question": "Which is the first day of Diwali, dedicated to cleaning homes and purchasing small items of gold?",
+        "answer": "b) Dhanteras",
+        "options": [
+            "a) Naraka Chaturdashi",
+            "b) Dhanteras ",
+            "c) Bhai Doj",
+            "d) Goverdhan Puja"
+        ]
+    },
+    {
+        "numb": 14,
+        "question": "In which among the following Indian States Diwali is celebrated as Kali Puja?",
+        "answer": "c) West Bengal",
+        "options": [
+            "a) Uttar Pradesh",
+            "b) Nagaland",
+            "c) West Bengal ",
+            "d) Bihar"
+        ]
+    },
+    {
+        "numb": 15,
+        "question": "Diwali commemorates the spiritual enlightenment of which two famous saints?",
+        "answer": "c) Vardhman Mahavir and Swami Dayananda Saraswati",
+        "options": [
+            "a) Buddha and Jesus",
+            "b) Guru Nanak and Prophet",
+            "c) Vardhman Mahavir and Swami Dayananda Saraswati ",
+            "d) Shri Chaitanya Mahaprabhu and Shri Ramakrishna Paramahansa"
+        ]
+    },
+    {
+        "numb": 16,
+        "question": "Who was the first US President to host a Diwali party at the White House?",
+        "answer": "d) Barack Obama",
+        "options": [
+            "a) Bill Clinton",
+            "b) Donald Trump",
+            "c) Joe Biden",
+            "d) Barack Obama"
+        ]
+    },
+    {
+        "numb": 17,
+        "question": "According to Hindu beliefs, during Diwali how many diyas should be lit on Diwali?",
+        "answer": "c) 13",
+        "options": [
+            "a) 14",
+            "b) 11",
+            "c) 13 ",
+            "d) 21"
+        ]
+    },
+    {
+        "numb": 18,
+        "question": "According to Ramayana texts, which of the following is true?",
+        "answer": "b) The return of Prince Rama of Ayodhya",
+        "options": [
+            "a) The release of the sixth Guru, Hargobind",
+            "b) The return of Prince Rama of Ayodhya ",
+            "c) Lord Mahavira attained enlightenment",
+            "d) All of the above"
+        ]
+    }
 
-     {
-     numb: 6,
-     question: "Your Question is Here",
-     answer: "option 4",  
-     options: [
-       "option 1",
-       "option 2",
-       "option 3",
-       "option 4"
-    ]
-   },
 
-
-     {
-     numb: 7,
-     question: "Another Question is Here",
-     answer: "option 2",  
-     options: [
-       "option 1",
-       "option 2",
-       "option 3",
-       "option 4"
-    ]
-   },
-
-
-     {
-     numb: 8,
-     question: "Sample Question is Here",
-     answer: "option 1",  
-     options: [
-       "option 1",
-       "option 2",
-       "option 3",
-       "option 4"
-    ]
-   },
 
 
 ];
