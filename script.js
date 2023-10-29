@@ -2,7 +2,7 @@ let questions = [
     {
         "numb": 1,
         "question": "The word Diwali is derived from which language?",
-        "answer": "c) Sanskrit",
+        "answer": "c) Sanskrit ",
         "options": [
             "a) Pali",
             "b) Apabhramsa",
@@ -17,7 +17,7 @@ let questions = [
         "options": [
             "a) Row of colours",
             "b) Colourful lights",
-            "c) Row of lights ",
+            "c) Row of lights",
             "d) Victory of the light"
         ]
     },
@@ -40,7 +40,7 @@ let questions = [
             "a) 1",
             "b) 7",
             "c) 3",
-            "d) 5 "
+            "d) 5"
         ]
     },
     {
@@ -51,7 +51,7 @@ let questions = [
             "a) Bhai Dooj",
             "b) Dhanteras",
             "c) Govardhan Pooja",
-            "d) Naraka Chaturdashi "
+            "d) Naraka Chaturdashi"
         ]
     },
     {
@@ -71,7 +71,7 @@ let questions = [
         "answer": "b) Release of Guru Hargobind",
         "options": [
             "a) For Ram’s victory over Ravana",
-            "b) Release of Guru Hargobind ",
+            "b) Release of Guru Hargobind",
             "c) Defeat of Narakasura by Shri Krishna",
             "d) None of the above"
         ]
@@ -84,18 +84,18 @@ let questions = [
             "a) Ashwin",
             "b) Bhadra",
             "c) Asvina",
-            "d) Kartika "
+            "d) Kartika"
         ]
     },
     {
         "numb": 9,
         "question": "Which day of Diwali commemorating Krishna’s defeat of Indra is called Goverdhan Puja, Balipratipada, or Annakut?",
-        "answer": "d) Fourth ",
+        "answer": "d) Fourth",
         "options": [
             "a) Fifth",
             "b) Third",
             "c) Second",
-            "d) Fourth "
+            "d) Fourth"
         ]
     },
     {
@@ -115,7 +115,7 @@ let questions = [
         "answer": "b) New Moon",
         "options": [
             "a) Full moon night",
-            "b) New Moon ",
+            "b) New Moon",
             "c) First quarter of the moon",
             "d) Crescent moon"
         ]
@@ -127,7 +127,7 @@ let questions = [
         "options": [
             "a) Red Fort",
             "b) Amber Fort",
-            "c) Golden Temple ",
+            "c) Golden Temple",
             "d) Taj Mahal"
         ]
     },
@@ -137,8 +137,8 @@ let questions = [
         "answer": "b) Dhanteras",
         "options": [
             "a) Naraka Chaturdashi",
-            "b) Dhanteras ",
-            "c) Bhai Doj",
+            "b) Dhanteras",
+            "c) Bhai Dooj",
             "d) Goverdhan Puja"
         ]
     },
@@ -149,7 +149,7 @@ let questions = [
         "options": [
             "a) Uttar Pradesh",
             "b) Nagaland",
-            "c) West Bengal ",
+            "c) West Bengal",
             "d) Bihar"
         ]
     },
@@ -160,7 +160,7 @@ let questions = [
         "options": [
             "a) Buddha and Jesus",
             "b) Guru Nanak and Prophet",
-            "c) Vardhman Mahavir and Swami Dayananda Saraswati ",
+            "c) Vardhman Mahavir and Swami Dayananda Saraswati",
             "d) Shri Chaitanya Mahaprabhu and Shri Ramakrishna Paramahansa"
         ]
     },
@@ -182,7 +182,7 @@ let questions = [
         "options": [
             "a) 14",
             "b) 11",
-            "c) 13 ",
+            "c) 13",
             "d) 21"
         ]
     },
@@ -192,7 +192,7 @@ let questions = [
         "answer": "b) The return of Prince Rama of Ayodhya",
         "options": [
             "a) The release of the sixth Guru, Hargobind",
-            "b) The return of Prince Rama of Ayodhya ",
+            "b) The return of Prince Rama of Ayodhya",
             "c) Lord Mahavira attained enlightenment",
             "d) All of the above"
         ]
