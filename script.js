@@ -196,6 +196,31 @@ let questions = [
             "c) Lord Mahavira attained enlightenment",
             "d) All of the above"
         ]
+    },
+
+    {
+        "numb": 19,
+        "question": "In which epic Indian poem is the story of Diwali found?",
+        "answer": "b) Ramayana",
+        "options": [
+            "a) Mahabharata",
+            "b) Ramayana",
+            "c) Bhagavad Gita",
+            "d) Arthashastra"
+        ]
+
+    },
+
+    {
+        "numb": 20,
+        "question": "What is the significance of lighting lamps or diyas during Diwali?",
+        "answer": "b) Symbolizes the victory of light over darkness and knowledge over ignorance",
+        "options": [
+            "a) It's just a tradition with no particular significance",
+            "b) Symbolizes the victory of light over darkness and knowledge over ignorance",
+            "c) It brings good luck for the coming year",
+            "d) To keep away mosquitoes and insects"
+        ]
     }
 
 
